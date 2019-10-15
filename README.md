@@ -5,6 +5,11 @@ Individual assignments for the course Search Engines and Information Retrieval S
 Information Retrieval (IR) is finding material (usually documents) of an unstructured nature that satisfies an information need from within
 large collections (usually stored on computers). 
 
+Note: Provided code for running the engine has not been added because of privacy policy. Files in the assignments contains the parts that have been asked to be implemented. Also implementation for Persistent hashed index has not been uploaded, although all query tests have been executed using Persistent hashed index. 
+
+The dataset that was used was davisWiki. Also, a small version of this has been used for testing reasons. Finally, it has been used my favorite Monte-Carlo method to approximate the pageranks of the full Swedish Wikipedia link structure.
+
+Dataset folders have not been uploaded.
 
 Assignment 1: Boolean Retrieval
 
